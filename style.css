@@ -14,11 +14,14 @@ body{
     color: #fff;
 }
 
-p{
+div{
     font-size: 3rem;
 }
 .js{
     color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .typed-text{
