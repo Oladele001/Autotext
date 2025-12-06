@@ -17,6 +17,12 @@ body{
 div{
     font-size: 3rem;
 }
+.round{
+    width: 5rem;
+    height: 5rem;
+    background-color: red;
+    border: 3px groove yellow;
+}
 .js{
     color: yellow;
     display: flex;
