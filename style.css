@@ -5,7 +5,7 @@
 }
 
 body{
-    display: flex;
+    display: grid;
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -22,6 +22,12 @@ div{
     height: 5rem;
     background-color: red;
     border: 3px groove yellow;
+    border-radius: 50%;
+    display: flex;
+    justify-items: center;
+    position: fixed;
+    top: 3rem;
+    left: 37rem;
 }
 .js{
     color: yellow;
